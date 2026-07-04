@@ -151,9 +151,9 @@ Feel free to fork the repository and submit a pull request.
 
 If you'd like to connect or discuss this project:
 
-- LinkedIn: *(Add your LinkedIn)*
-- GitHub: *(Add your GitHub)*
-- Email: *(Add your Email)*
+
+- GitHub: https://github.com/Sandeep-0507  
+- Email: sandeepgugulothu772@gmail.com
 
 ---
 
